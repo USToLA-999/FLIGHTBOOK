@@ -279,6 +279,25 @@ h2{
                 border-radius:  4rem;
                 background: rgb(237, 237, 237);
                 margin-left: 1rem;
+
+                .icon{
+                    color: black;
+                    opacity: .7;
+                }
+            }
+
+            .texts{
+                h4{
+                   padding-top: 0;
+                   padding-bottom: .7rem;
+                   color: black;
+                   font-weight: 700;
+                }
+
+                input{
+                    width: 95%;
+                    border: none;
+                }
             }
         }
     }

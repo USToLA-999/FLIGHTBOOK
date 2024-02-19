@@ -258,4 +258,18 @@ h2 {
   border-radius: 4rem;
   background: rgb(237, 237, 237);
   margin-left: 1rem;
+}
+.search .searchInputs .singleInput .iconDiv .icon {
+  color: black;
+  opacity: 0.7;
+}
+.search .searchInputs .singleInput .texts h4 {
+  padding-top: 0;
+  padding-bottom: 0.7rem;
+  color: black;
+  font-weight: 700;
+}
+.search .searchInputs .singleInput .texts input {
+  width: 95%;
+  border: none;
 }/*# sourceMappingURL=main.css.map */
